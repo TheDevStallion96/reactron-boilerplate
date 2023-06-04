@@ -1,8 +1,8 @@
 {
   "name": "electron-desktop-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "electron-desktop-app",
+  "main": "./src/main/main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
